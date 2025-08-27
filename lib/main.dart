@@ -35,8 +35,8 @@ class _DisplayShareState extends State<DisplayShare> {
   double _share = 125.1540;
   int _personNumber = 1;
   double _tipAmount = 0.0;
-
-
+   
+  
 
   void _decreasePeople() {
     setState(() {
